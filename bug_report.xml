@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bug_report>
+  <title>краткое описание</title>
+    <Environment>окружение</Environment>
+  <ID>номер</ID>
+    <precondition>предусловия</precondition>
+    <severity>серьезность</severity>
+    <priority>приоритет</priority>
+    <steps>шаги воспроизведения</steps>
+    <actual_result>фактический результат</actual_result>
+    <expected_result>ожидаемый результат</expected_result>
+    <Attachments>link</Attachments>
+</bug_report>
