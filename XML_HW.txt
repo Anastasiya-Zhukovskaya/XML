@@ -71,6 +71,11 @@ git push
 34. На веб интерфейсе создать файл bug_report.xml.
 Add file > Create new file > Name: bug_report.xml
 
+35. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+Commit New File
+
+36. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML.
+Выбрать bug_report.xml > Edit this file
 <?xml version="1.0" encoding="utf-8"?>
 <bug_report>
   <title>краткое описание</title>
@@ -84,12 +89,6 @@ Add file > Create new file > Name: bug_report.xml
     <expected_result>ожидаемый результат</expected_result>
     <Attachments>link</Attachments>
 </bug_report>
-
-35. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
-Commit New File
-
-36. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML.
-Выбрать bug_report.xml > Edit this file
 
 37. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
 Commit changes
